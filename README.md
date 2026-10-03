@@ -278,6 +278,7 @@ When learning CS, there are some useful sites you must know to get always inform
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
+- [KDFTek Dev Tools](https://kdftek.com/tools/) — Free in-browser developer utilities: JSON formatter, base64 encoder, password generator, QR codes, image compress/resize. No signup.
 
 ## 🐚 Bash and Shell scripting  
 - [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) : An in-depth exploration of the art of shell scripting
